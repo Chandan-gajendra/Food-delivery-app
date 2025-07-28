@@ -76,8 +76,7 @@ File Storage	PostgreSQL BYTEA for food images
 
 🗂️ Project Structure
 pgsql
-Copy
-Edit
+
 swiftbite/
 ├── src/com/swiftbite/servlets/
 │   ├── LoginServlet.java
