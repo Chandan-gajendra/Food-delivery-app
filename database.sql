@@ -1,5 +1,7 @@
 -- Drop tables if needed (optional)
 DROP TABLE IF EXISTS ratings, order_items, orders, foods, hotels, users CASCADE;
+-- create a schema in sql 
+swiftbite
 
 -- Users: both customers & managers
 CREATE TABLE users (
